@@ -43,20 +43,20 @@ My name is Mohamed Sabkhi and I'm an Applied Maths and Software Engineering Stud
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=MedSabkhi21&theme=react&border=61dafb&hide_border=true" alt="MedSabkhi21" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=RoyMustang-bit&theme=react&border=61dafb&hide_border=true" alt="RoyMustang-bit" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=MedSabkhi21&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=RoyMustang-bit&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedSabkhi21&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyMustang-bit&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=MedSabkhi21&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=RoyMustang-bit&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
@@ -71,6 +71,6 @@ My name is Mohamed Sabkhi and I'm an Applied Maths and Software Engineering Stud
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/medsaabkhi
-[2]: https://github.com/MedSabkhi21
-[3]: https://www.linkedin.com/in/mohamed-sabkhi/
+
+[1]: https://github.com/RoyMustang-bit
+[2]: https://www.linkedin.com/in/mohamed-amine-said/
