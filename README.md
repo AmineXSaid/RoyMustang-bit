@@ -3,20 +3,18 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;bThis+is+Mohamed+Sabkhi...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;bThis+is+Mohamed+Amine+Said...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
-My name is Mohamed Sabkhi and I'm an Applied Maths and Software Engineering Student. I'm from Tunisia , living in Sfax and currently an intern at @Ettasahil. I'm passionate about machine learning and mathematics.
+My name is Mohamed Amine Said and I'm an Applied Maths and Software Engineering Student. I'm from Tunisia , living in Sfax and currently an intern at @Etcinfo. I'm passionate about machine learning , deep learning , mathematics and python. 
 
 ## What am I up to?
 
-- 🔭 I’m currently learning Pytorch for computervision, data analytics using R, and ReactJs on the side for fun !
-- 💬 Leader of Google Developers Student Clubs ENETCOM 
-- 👨‍🏫 Python instructor at GOMYCODE
-- 👤 Github Tunisian Community Co-organizer
-- 📫 How to reach me: medsabkhi@gmail.com
+- 🔭 I’m currently learning Pytorch for computervision, Big data with spark, and Data engineering !
+- 💬 EX project manager in Ai Enetcom Club
+- 📫 How to reach me: amine8said@gmail.com
 ## My Absolute Favorites:
 - 💻   I love exploring new tech building technology that help people.
 - 📰   Reading research papers & writing tech blogs whenever possible.
